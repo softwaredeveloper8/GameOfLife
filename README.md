@@ -1,0 +1,2 @@
+# GameOfLife
+Cellular automaton software

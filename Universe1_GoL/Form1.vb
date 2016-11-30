@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    Const MAX_SIZE As Integer = 300
+    Const MAX_SIZE As Integer = 500
     Dim generation As Integer = 0
     Dim numbOfCellsInRow As Integer
     Dim numbOfCellsInCol As Integer
